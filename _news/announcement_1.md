@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-07-8
 inline: true
 ---
 
-A simple inline announcement.
+Finalizo el Máster en Formación e Investigación Literaria y Teatral.
