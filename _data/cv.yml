@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: David Merino Recalde
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th Jyly 1996
     - name: Languages
-      value: English, German
+      value: Español, English
 
-- title: Education
+- title: Formación
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Máster en Formación e Investigación Literaria y Teatral
+      institution: Universidad Nacional de Educación a Distancia, Madrid, España
+      year: 2022
       description:
         - Description 1.
         - Description 2.
@@ -21,14 +21,17 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Máster en Humanidades Digitales
+      institution: Universidad Nacional de Educación a Distancia, Madrid, España
+      year: 2020
       description:
         - Description 1.
         - Description 2.
+    - title: Título Superior en Arte Dramático
+      institution: Escuela Superior de Arte Dramático de Asturias, Gijón, España
+      year: 2019
 
-- title: Experience
+ - title: Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
