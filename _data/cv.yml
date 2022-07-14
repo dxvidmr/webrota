@@ -1,12 +1,12 @@
-- title: General Information
+- title: Información general
   type: map
   contents:
-    - name: Full Name
+    - name: Nombre completo
       value: David Merino Recalde
-    - name: Date of Birth
-      value: 20th Jyly 1996
-    - name: Languages
-      value: Español, English
+    - name: Fecha de nacimiento
+      value: 20 de julio de 1996
+    - name: Idiomas
+      value: Español, Inglés
 
 - title: Formación
   type: time_table
