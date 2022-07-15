@@ -34,8 +34,8 @@
       institution: Universidad de Burgos
       year: 2021
       description:
-        - Colaboradores - UNIR, Instituto Almagro de teatro clásico, Uniwersytet Wrocławski, Grupo Proteo
-        - 7-9 septimbre 2021
+        - <b>Instituciones colaboradoras:</b> UNIR, Instituto Almagro de teatro clásico, Uniwersytet Wrocławski, Grupo Proteo
+        - 7-9 septiembre 2021
     - title: Minimal Computing and Wax
       institution: University of Pennsylvania (Price Lab for Digital Humanities), EEUU
       year: 2021
@@ -60,7 +60,7 @@
           contents:
             - Marcado TEI para la <a href="https://github.com/GHEDI/BETTE">Biblioteca Electrónica Textual del Teatro en Español 1868-1939</a> (BETTE), incluida en la infraestructura <a href="https://dracor.org">DraCor</a>
             - Cotejo y revisión de ediciones
-            - Contro del repositorio GitHub del proyecto
+            - Control del repositorio GitHub del proyecto
 
 - title: Participación en eventos académicos
   type: time_table
