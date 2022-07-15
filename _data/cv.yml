@@ -24,7 +24,7 @@
     - title: Título Superior en Arte Dramático
       institution: Escuela Superior de Arte Dramático de Asturias, Gijón, España
       year: 2019
-      descripcion:
+      description:
         - <b>Trabajo de Fin de Grado:</b> <i>Sodomitas, travestis, putos y mari(c)ones barrocos. La inversión sexual masculina como recurso cómico del teatro breve del Siglo de Oro español</i>
 
 - title: Otras formaciones
@@ -53,7 +53,7 @@
     - title: Colaboración  con el proyecto <a href="https://etso.es">ETSO</a>
       year: 2022
       description: Preparación de archivos para generar un modelo de corrección y limpieza de los resultados de la transcripción automática de manuscritos teatrales del XVII con Transkribus
-    - titulo: Miembro del grupo de investigación <a href="http://gruposinvestigacion.unir.net/hdaunir/">Humanidades Digitales Aplicadas de UNIR</a>
+    - title: Miembro del grupo de investigación <a href="http://gruposinvestigacion.unir.net/hdaunir/">Humanidades Digitales Aplicadas de UNIR</a>
       year: desde 2021
       description:
         - title: Proyecto HDATEATROUNIR (2020-2022)
@@ -61,6 +61,12 @@
             - Marcado TEI para la <a href="https://github.com/GHEDI/BETTE">Biblioteca Electrónica Textual del Teatro en Español 1868-1939</a> (BETTE), incluida en la infraestructura <a href="https://dracor.org">DraCor</a>
             - Cotejo y revisión de ediciones
             - Contro del repositorio GitHub del proyecto
+
+- title: Asociaciones científicas
+type: time_table
+contents:
+  - title: Sociedad Internacinal Humanidades Digitales Hispánicas
+  year: desde 
 
 - title: Revisión y edición
   type: time_table
@@ -75,7 +81,7 @@
         - Revista de Humanidades Digitales
     - year: 2018-2019
       items: 
-        - Editorial Cambalache. <b>Título editado:</b> G. Abiétar, D. (2019). ¿Sólo dos? La medicina ante la ficción política del binarismo sexo-género. Editorial Cambalache. 978-84-94457-28-9
+        - Editorial Cambalache. <b>Título editado:</b> G. Abiétar, D. (2019). <i>¿Sólo dos? La medicina ante la ficción política del binarismo sexo-género</i>. Editorial Cambalache. 978-84-94457-28-9
 
 - title: Intereses académicos
   type: nested_list
