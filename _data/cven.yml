@@ -1,5 +1,125 @@
 - title: General information
   type: map
   contents:
-    - name: Name
+    - name: Full Name
       value: David Merino Recalde
+    - name: Affiliations
+      value: HDAUNIR Reserach Group, Universidad Internacional de la Rioja
+    - name: Languages
+      value: Spanish, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.A. in Literary and Theatre Research
+      institution: Universidad Nacional de Educación a Distancia, Madrid, Spain
+      year: 2022
+      description:
+        - <b>Master's Thesis:</b> <i>El sistema de personajes de las comedias urbanas de Lope de Vega. Propuesta metodológica y posibilidades del análisis de redes sociales para el estudio del teatro del Siglo de Oro</i>
+    - title: M.A. in Digital Humanities
+      institution: Universidad Nacional de Educación a Distancia, Madrid, Spain
+      year: 2020
+      description:
+        - <b>Master's Thesis:</b> <i>Estudios teatrales y Humanidades Digitales. Un estado de la cuestión del cruce entre disciplinas en la investigación del teatro español</i>
+    - title: B.A. in in Theater and Performing Arts
+      institution: Escuela Superior de Arte Dramático de Asturias, Gijón, España
+      year: 2019
+      description:
+        - <b>Bachelor's thesis:</b> <i>Sodomitas, travestis, putos y mari(c)ones barrocos. La inversión sexual masculina como recurso cómico del teatro breve del Siglo de Oro español</i>
+
+- title: Courses
+  type: time_table
+  contents:
+    - title: Del corpus a la interpretación. Estilometría con R
+      institution: Universidad de Burgos, Spain
+      year: 2021
+      description:
+        - <b>Partner institutions:</b> UNIR, Instituto Almagro de teatro clásico, Uniwersytet Wrocławski, Grupo Proteo
+        - 7-9 September 2021
+    - title: Minimal Computing and Wax
+      institution: University of Pennsylvania (Price Lab for Digital Humanities), USA
+      year: 2021
+      description:
+        - 14-17 June 2021
+    - title: Digital Publishing with Minimal Computing. Humanities at a global scale
+      institution: University of Maryland - MITH (USA), Universidad del Salvador (Argentina)
+      year: 2020
+      description:
+        - September-December (Fall semester)
+
+- title: Research
+  type: time_table
+  contents:
+    - title: Proyecto <a href="https://etso.es">ETSO</a> (colaboración)
+      year: 2022
+      # description: Preparación de archivos para generar un modelo de corrección y limpieza de los resultados de la transcripción automática de manuscritos teatrales del XVII con Transkribus
+    - title: <a href="http://gruposinvestigacion.unir.net/hdaunir/">Humanidades Digitales Aplicadas de UNIR</a> Research gropu (member)
+      year: since 2021
+      description:
+        - title: Proyecto HDATEATROUNIR (2020-2022)
+          # contents:
+            # - Marcado TEI para la <a href="https://github.com/GHEDI/BETTE">Biblioteca Electrónica Textual del Teatro en Español 1868-1939</a> (BETTE), incluida en la infraestructura <a href="https://dracor.org">DraCor</a>
+            # - Cotejo y revisión de ediciones
+            # - Contro del repositorio GitHub del proyecto
+
+- title: Academic Events
+  type: time_table
+  contents:
+    - year: 2021
+      items: 
+        - <i>El mismo texto, diferentes ediciones digitales. Resultados y experiencias de estudiantes de “Digital Publishing with Minimal Computing” Global Classrooms (UMD/USAL)</i>. Global Digital Humanities Symposium 2021, Michigan State University, 12-15 April 2021
+    - year: 2020
+      items: 
+        - <i>Humanidades Digitales y Minimal Computing. Percepciones de los estudiantes</i>. Noviembre HD. Asociación Argentina de Humanidades Digitales (AAHD), 20 november 2020
+        - <i>Contando palabras para delimitar el corpus de un autor teatral. Estilometría y atribución de autoría</i>. II Encuentro UMA de Jóvenes Investigadores en Humanidades. Falsificaciones, copias y plagios, Universidad de Málaga, 9-10 November 2020
+
+- title: Scientific Associations
+  type: time_table
+  contents:
+    - title: Sociedad Internacional Humanidades Digitales Hispánicas
+      year: since 2021
+      description: <a href="https://humanidadesdigitaleshispanicas.es/la-asociacion/organizacion/">Board member</a> (2021-now)
+
+- title: Editing and Review Service
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - Digital Humanities 2022, ADHO
+    - year: 2021
+      items: 
+        - Programming Historian
+        - Publicaciones de la Asociación Argentina de Humanidades Digitales
+        - Revista de Humanidades Digitales
+    - year: 2018-2019
+      items: 
+        - Editorial Cambalache. <b>Edited book:</b> G. Abiétar, D. (2019). <i>¿Sólo dos? La medicina ante la ficción política del binarismo sexo-género</i>. Editorial Cambalache. 978-84-94457-28-9
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Spanish Golden Age Theatre
+      items: 
+        - Lope de Vega, urban plays
+    - title: Digital Humanities
+      items:
+        - Digital editing
+        - Computational Drama Analysis (Network Analysis, stylometry)
+
+- title: Habilidades técnicas
+  type: map
+  contents:
+    - name: Web Techonologies
+      value: HTML, CSS, Jekyll, Wordpress
+    - name: Digital Editing and Publishing
+      value: XML-TEI, CETEIcean
+    - name: Programming Languages
+      value: R (basic), SQL (basic)
+    - name: VCS 
+      value: Git, GitHub, GitLab
+    - name: Network Analysis
+      value: Gephi, Cytoscape
+    - name: Automated Transcription
+      value: Transkribus
+    - name: Operating Systems
+      value: Windows, macOS
