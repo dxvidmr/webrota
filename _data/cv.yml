@@ -6,45 +6,32 @@
     #- name: Date of Birth
       #value: 14th March 1879
     - name: Afiliaciones
-      value:
-      - Universidad Nacional de Educación a Distancia
-      - Grupo de investigación HDAUNIR, Universidad Internacional de la Rioja
+      value: Grupo de investigación HDAUNIR, Universidad Internacional de la Rioja
     - name: Idiomas
       value: Español, Inglés
 
 - title: Formación académica
   type: time_table
   contents:
-    - title: Máster 
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Máster en Formación e Investigación Literaria y Teatral
+      institution: Universidad Nacional de Educación a Distancia, Madrid, España
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Trabajo de Fin de Máster: "El sistema de personajes de las comedias urbanas de Lope de Vega. Propuesta metodológica y posibilidades del análisis de redes sociales para el estudio del teatro del Siglo de Oro"
+    - title: Máster en Humanidades Digitales
+      institution: Universidad Nacional de Educación a Distancia, Madrid, España
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Trabajo de Fin de Máster: "Estudios teatrales y Humanidades Digitales: un estado de la cuestión del cruce entre disciplinas en la investigación del teatro español"
 
-- title: Experience
+- title: Otras formaciones
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Del corpus a la interpretación: Estilometría con R
+      institution: Universidad de Burgos y UNIR, Instituto Almagro de teatro clásico, Uniwersytet Wrocławski, Grupo Proteo
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - 7-9 septimbre 2021
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
