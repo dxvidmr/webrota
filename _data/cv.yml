@@ -5,6 +5,10 @@
       value: David Merino Recalde
     #- name: Date of Birth
       #value: 14th March 1879
+    - name: Afiliaciones
+      description:
+      - Universidad Nacional de Educación a Distancia
+      - Grupo de investigación HDAUNIR, Universidad Internacional de la Rioja
     - name: Idiomas
       value: Español, Inglés
 
