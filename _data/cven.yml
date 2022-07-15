@@ -50,17 +50,12 @@
 - title: Research
   type: time_table
   contents:
-    - title: Proyecto <a href="https://etso.es">ETSO</a> (colaboración)
+    - title: Proyecto <a href="https://etso.es">ETSO</a> (colaboration)
       year: 2022
-      # description: Preparación de archivos para generar un modelo de corrección y limpieza de los resultados de la transcripción automática de manuscritos teatrales del XVII con Transkribus
     - title: <a href="http://gruposinvestigacion.unir.net/hdaunir/">Humanidades Digitales Aplicadas de UNIR</a> Research gropu (member)
       year: since 2021
       description:
         - title: Proyecto HDATEATROUNIR (2020-2022)
-          # contents:
-            # - Marcado TEI para la <a href="https://github.com/GHEDI/BETTE">Biblioteca Electrónica Textual del Teatro en Español 1868-1939</a> (BETTE), incluida en la infraestructura <a href="https://dracor.org">DraCor</a>
-            # - Cotejo y revisión de ediciones
-            # - Contro del repositorio GitHub del proyecto
 
 - title: Academic Events
   type: time_table
@@ -106,7 +101,7 @@
         - Digital editing
         - Computational Drama Analysis (Network Analysis, stylometry)
 
-- title: Habilidades técnicas
+- title: Skills
   type: map
   contents:
     - name: Web Techonologies
