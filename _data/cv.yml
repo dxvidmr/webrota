@@ -62,6 +62,13 @@
             - Cotejo y revisión de ediciones
             - Contro del repositorio GitHub del proyecto
 
+- title: Participación en eventos académicos
+  type: time_table
+  Presentaciones, comunicaciones
+  contents:
+    - title: blabla
+      year: 2021
+
 - title: Revisión y edición
   type: time_table
   contents:
