@@ -65,8 +65,13 @@
 - title: Participación en eventos académicos
   type: time_table
   contents:
-    - title: blabla
-      year: 2021
+    - year: 2021
+      items: 
+        - <i>El mismo texto, diferentes ediciones digitales. Resultados y experiencias de estudiantes de “Digital Publishing with Minimal Computing” Global Classrooms (UMD/USAL)</i>. Global Digital Humanities Symposium 2021, Michigan State University, 12-15 abril 2021
+    - year: 2020
+      items: 
+        - <i>Humanidades Digitales y Minimal Computing. Percepciones de los estudiantes</i>. Noviembre HD. Asociación Argentina de Humanidades Digitales (AAHD), 20 noviembre 2020
+        - <i>Contando palabras para delimitar el corpus de un autor teatral. Estilometría y atribución de autoría</i>. II Encuentro UMA de Jóvenes Investigadores en Humanidades. Falsificaciones, copias y plagios, Universidad de Málaga, 9-10 noviembre 2020
 
 - title: Revisión y edición
   type: time_table
