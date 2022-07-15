@@ -6,16 +6,16 @@
     #- name: Date of Birth
       #value: 14th March 1879
     - name: Afiliaciones
-      description:
+      value:
       - Universidad Nacional de Educación a Distancia
       - Grupo de investigación HDAUNIR, Universidad Internacional de la Rioja
     - name: Idiomas
       value: Español, Inglés
 
-- title: Education
+- title: Formación académica
   type: time_table
   contents:
-    - title: PhD
+    - title: Máster 
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
