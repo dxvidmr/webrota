@@ -50,10 +50,10 @@
 - title: Investigación
   type: time_table
   contents:
-    - title: Colaboración  con el proyecto <a href="https://etso.es">ETSO</a>
+    - title: Proyecto <a href="https://etso.es">ETSO</a> (colaboración)
       year: 2022
       description: Preparación de archivos para generar un modelo de corrección y limpieza de los resultados de la transcripción automática de manuscritos teatrales del XVII con Transkribus
-    - title: Miembro del grupo de investigación <a href="http://gruposinvestigacion.unir.net/hdaunir/">Humanidades Digitales Aplicadas de UNIR</a>
+    - title: Grupo de investigación <a href="http://gruposinvestigacion.unir.net/hdaunir/">Humanidades Digitales Aplicadas de UNIR</a> (miembro)
       year: desde 2021
       description:
         - title: Proyecto HDATEATROUNIR (2020-2022)
@@ -63,10 +63,11 @@
             - Contro del repositorio GitHub del proyecto
 
 - title: Asociaciones científicas
-type: time_table
-contents:
-  - title: Sociedad Internacinal Humanidades Digitales Hispánicas
-  year: desde 
+  type: time_table
+  contents:
+    - title: Sociedad Internacinal Humanidades Digitales Hispánicas
+    year: desde 2021
+    descripcion: Vocal de estudiantes en la Junta Directiva
 
 - title: Revisión y edición
   type: time_table
