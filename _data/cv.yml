@@ -3,8 +3,6 @@
   contents:
     - name: Nombre completo
       value: David Merino Recalde
-    #- name: Date of Birth
-      #value: 14th March 1879
     - name: Afiliaciones
       value: Grupo de investigación HDAUNIR, Universidad Internacional de la Rioja
     - name: Idiomas
@@ -49,37 +47,62 @@
       description:
         - septimebre-diciembre (Fall semester)
 
-- title: Open Source Projects
+- title: Investigación
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Colaboración  con el proyecto <a href="https://etso.es">ETSO</a>
+      year: 2022
+      description: Preparación de archivos para generar un modelo de corrección y limpieza de los resultados de la transcripción automática de manuscritos teatrales del XVII con Transkribus
+    - titulo: Miembro del grupo de investigación <a href="http://gruposinvestigacion.unir.net/hdaunir/">Humanidades Digitales Aplicadas de UNIR</a>
+      year: desde 2021
+      description:
+        - title: Proyecto HDATEATROUNIR (2020-2022)
+          contents:
+            - Marcado TEI para la <a href="https://github.com/GHEDI/BETTE">Biblioteca Electrónica Textual del Teatro en Español 1868-1939</a> (BETTE), incluida en la infraestructura <a href="https://dracor.org">DraCor</a>
+            - Cotejo y revisión de ediciones
+            - Contro del repositorio GitHub del proyecto
 
-- title: Honors and Awards
+- title: Revisión y edición
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Digital Humanities 2022, ADHO
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - Programming Historian
+        - Publicaciones de la Asociación Argentina de Humanidades Digitales
+        - Revista de Humanidades Digitales
+    - year: 2018-2019
+      items: 
+        - Editorial Cambalache. <b>Título editado:</b> G. Abiétar, D. (2019). ¿Sólo dos? La medicina ante la ficción política del binarismo sexo-género. Editorial Cambalache. 978-84-94457-28-9
 
-- title: Academic Interests
+- title: Intereses académicos
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Teatro del Siglo de Oro
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Lope de Vega, comedia urbana
+        - Teatro breve
+    - title: Humanidades Digitales
       items:
-        - Description 1.
-        - Description 2.
+        - Edición digital
+        - Computational Drama Analysis (análisis de redes, estilometría)
 
-- title: Other Interests
-  type: list
+- title: Habilidades técnicas
+  type: map
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: Tecnologías web
+      value: HTML, CSS, Jekyll, Wordpress
+    - name: Edición y publicación digital
+      value: XML-TEI, CETEIcean
+    - name: Lenguajes de programación
+      value: R (básico), SQL (básico)
+    - name: VCS 
+      value: Git, GitHub, GitLab
+    - name: Análisis de redes
+      value: Gephi, Cytoscape
+    - name: Transcripción automática
+      value: Transkribus
+    - name: Sistemas operativos
+      value: Windows, macOS
