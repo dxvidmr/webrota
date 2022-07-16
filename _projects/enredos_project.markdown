@@ -23,8 +23,7 @@ El proyecto **enREDos** es un proyecto de investigación personal que surge de m
 - estructuras de relaciones como el amor/cortejo en paralelo o los triángulos amorososo
 - la distribución de grupos y universos sociales en las comedias
 
-
-Para continuar la investigación, pretendo aumentar el corpus de comedias, primero siguiendo con las urbanas de Lope y después abriéndome a otros subgéneros y autores del XVII.
+Para continuar la investigación pretendo aumentar el corpus de comedias, primero siguiendo con las urbanas de Lope y después abriéndome a otros subgéneros y autores del XVII.
 
 En mi GitHub puede encontrarse un [repositorio público](https://github.com/dxvidmr/enredos) desde el que es posible descargarse las listas de aristas y nodos de las comedias que forman el corpus de enREDos, por lo que quien lo desee puede utilizar estos datos para sus propios análisis.
 
