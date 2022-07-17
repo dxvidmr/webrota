@@ -7,7 +7,7 @@ first_name: David
 middle_name: Merino
 last_name: Recalde
 email: dxvidmrvg@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >
   Sitio web académico de David Merino Recalde.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
