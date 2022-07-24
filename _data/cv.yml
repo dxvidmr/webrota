@@ -16,16 +16,19 @@
       year: 2022
       description:
         - <b>Trabajo de Fin de Máster:</b> <i>El sistema de personajes de las comedias urbanas de Lope de Vega. Propuesta metodológica y posibilidades del análisis de redes sociales para el estudio del teatro del Siglo de Oro</i>
+        - <b>Directora:</b> Dra. Ana Suárez Miramón
     - title: Máster en Humanidades Digitales
       institution: Universidad Nacional de Educación a Distancia, Madrid, España
       year: 2020
       description:
         - <b>Trabajo de Fin de Máster:</b> <i>Estudios teatrales y Humanidades Digitales. Un estado de la cuestión del cruce entre disciplinas en la investigación del teatro español</i>
+        - <b>Directora:</b> Dra. Gimena del Rio Riande    
     - title: Título Superior en Arte Dramático
       institution: Escuela Superior de Arte Dramático de Asturias, Gijón, España
       year: 2019
       description:
         - <b>Trabajo de Fin de Grado:</b> <i>Sodomitas, travestis, putos y mari(c)ones barrocos. La inversión sexual masculina como recurso cómico del teatro breve del Siglo de Oro español</i>
+        - <b>Director:</b> Dr. Víctor Riesgo Quevedo
 
 - title: Otras formaciones
   type: time_table
@@ -62,7 +65,7 @@
             - Cotejo y revisión de ediciones
             - Control del repositorio GitHub del proyecto
 
-- title: Participación en eventos académicos
+- title: Presentaciones en eventos académicos
   type: time_table
   contents:
     - year: 2021
@@ -72,6 +75,15 @@
       items: 
         - <i>Humanidades Digitales y Minimal Computing. Percepciones de los estudiantes</i>. Noviembre HD. Asociación Argentina de Humanidades Digitales (AAHD), 20 noviembre 2020
         - <i>Contando palabras para delimitar el corpus de un autor teatral. Estilometría y atribución de autoría</i>. II Encuentro UMA de Jóvenes Investigadores en Humanidades. Falsificaciones, copias y plagios, Universidad de Málaga, 9-10 noviembre 2020
+- title: Organización de eventos académicos
+  type: time_table
+  contents:
+    - year: 2022-2023
+      items:
+        - <i>VI Congreso de la HDH. Encuentros y transformaciones, las Humanidades Digitales como propuesta transdisciplinar</i>. (Se celebrará en la UNIR [Logroño] los días 18, 19 y 20 de octubre de 2023). Comisión organizadora.
+    - year: 2020
+      items:
+        - <b>Noviembre HD</b>. Asociación Argentina de Humanidades Digitales (AAHD). Apoyo técnico en la comisión organizadora. 
 
 - title: Asociaciones científicas
   type: time_table
