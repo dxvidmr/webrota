@@ -80,17 +80,19 @@
   contents:
     - year: 2022-2023
       items:
-        - <i><b>VI Congreso de Humanidades Digitales Hispánicas. Encuentros y transformaciones, las Humanidades Digitales como propuesta transdisciplinar</b></i>. (Se celebrará en Logroño los días 18, 19 y 20 de octubre de 2023). Comisión organizadora.
+        - Comisión organizadora del <b>VI Congreso de Humanidades Digitales Hispánicas. Encuentros y transformaciones, las Humanidades Digitales como propuesta transdisciplinar</b>. Socidad Internacional Humanidades Digitales Hispánicas y Universidad Internacional de La Rioja, Logroño, 18-20 oct 2023
     - year: 2020
       items:
-        - <i><b>Noviembre HD</b></i>. Asociación Argentina de Humanidades Digitales (AAHD). Apoyo técnico en la comisión organizadora. 
+        - Apoyo técnico en la comisión organizadora del <b>Noviembre HD</b>. Asociación Argentina de Humanidades Digitales (AAHD), Buenos Aires, 1-30 nov 2020
 
 - title: Asociaciones científicas
   type: time_table
   contents:
     - title: Sociedad Internacional Humanidades Digitales Hispánicas
       year: desde 2021
-      description: Vocal de estudiantes en la <a href="https://humanidadesdigitaleshispanicas.es/la-asociacion/organizacion/">Junta Directiva</a>. Responsable del área de comunicación y difusión.
+      description: 
+        - Vocal en la <a href="https://humanidadesdigitaleshispanicas.es/la-asociacion/organizacion/">Junta Directiva</a>
+        - Responsable del área de comunicación y difusión
 
 - title: Revisión y edición
   type: time_table
@@ -101,7 +103,7 @@
         - Digital Humanities 2022, Alliance of Digital Humanities Organizations (ADHO), Tokyo, 25-29 jul 2022
     - year: 2021
       items: 
-        - Programming Historian. Nicolás Vaughan, "Introducción a la codificación de textos en TEI (parte 2)", Programming Historian en español 5 (2021), https://doi.org/10.46430/phes0055
+        - Programming Historian. Nicolás Vaughan, "Introducción a la codificación de textos en TEI (parte 2)", Programming Historian en español 5 (2021), <a href="https://doi.org/10.46430/phes0055">https://doi.org/10.46430/phes0055</a>
         - Publicaciones de la Asociación Argentina de Humanidades Digitales vol. 1 y vol. 2
         - Revista de Humanidades Digitales, vol. 6
     - year: 2018-2019
