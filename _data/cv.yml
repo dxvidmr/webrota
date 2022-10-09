@@ -80,7 +80,7 @@
   contents:
     - year: 2022-2023
       items:
-        - <i><b>VI Congreso de la HDH. Encuentros y transformaciones, las Humanidades Digitales como propuesta transdisciplinar</b></i>. (Se celebrará en la UNIR [Logroño] los días 18, 19 y 20 de octubre de 2023). Comisión organizadora.
+        - <i><b>VI Congreso de Humanidades Digitales Hispánicas. Encuentros y transformaciones, las Humanidades Digitales como propuesta transdisciplinar</b></i>. (Se celebrará en Logroño los días 18, 19 y 20 de octubre de 2023). Comisión organizadora.
     - year: 2020
       items:
         - <i><b>Noviembre HD</b></i>. Asociación Argentina de Humanidades Digitales (AAHD). Apoyo técnico en la comisión organizadora. 
@@ -90,19 +90,20 @@
   contents:
     - title: Sociedad Internacional Humanidades Digitales Hispánicas
       year: desde 2021
-      description: Vocal de estudiantes en la <a href="https://humanidadesdigitaleshispanicas.es/la-asociacion/organizacion/">Junta Directiva</a>
+      description: Vocal de estudiantes en la <a href="https://humanidadesdigitaleshispanicas.es/la-asociacion/organizacion/">Junta Directiva</a>. Responsable del área de comunicación y difusión.
 
 - title: Revisión y edición
   type: time_table
   contents:
     - year: 2022
       items: 
-        - Digital Humanities 2022, ADHO
+        - Publicaciones de la Asociación Argentina de Humanidades Digitales vol. 3
+        - Digital Humanities 2022, Alliance of Digital Humanities Organizations (ADHO), Tokyo, 25-29 jul 2022
     - year: 2021
       items: 
-        - Programming Historian
-        - Publicaciones de la Asociación Argentina de Humanidades Digitales
-        - Revista de Humanidades Digitales
+        - Programming Historian. Nicolás Vaughan, "Introducción a la codificación de textos en TEI (parte 2)", Programming Historian en español 5 (2021), https://doi.org/10.46430/phes0055
+        - Publicaciones de la Asociación Argentina de Humanidades Digitales vol. 1 y vol. 2
+        - Revista de Humanidades Digitales, vol. 6
     - year: 2018-2019
       items: 
         - Editorial Cambalache. <b>Título editado:</b> G. Abiétar, D. (2019). <i>¿Sólo dos? La medicina ante la ficción política del binarismo sexo-género</i>. Editorial Cambalache. 978-84-94457-28-9
