@@ -53,15 +53,13 @@
       year: desde 2021
       description:
         - title: Proyecto HDATEATROUNIR (2022-2024)
-          description:
+          contents:
             - Marcado TEI para la <a href="https://github.com/GHEDI/BETTE">Biblioteca Electrónica Textual del Teatro en Español 1868-1939</a> (BETTE), incluida en la infraestructura europea <a href="https://dracor.org">DraCor</a>
+            - <b>Ediciones a cargo:</b> <i>Lazos rotos</i>, Emilia Calé; <i>Los pícaros intereses</i>, Mª del Pilar Contreras
         - title: Proyecto HDATEATROUNIR (2020-2022)
-          description:
+          contents:
             - Marcado TEI para la <a href="https://github.com/GHEDI/BETTE">Biblioteca Electrónica Textual del Teatro en Español 1868-1939</a> (BETTE), incluida en la infraestructura europea <a href="https://dracor.org">DraCor</a>
-            - contents: <b>Ediciones a cargo:</b>
-                - <i>El público</i>, Lorga
-                - <i>Los títeres de cachiporra</i>, Lorca
-                - <i>Rienzi el Tribuno</i>, Rosario de Acuña
+            - <b>Ediciones a cargo:</b> <i>El público</i>, Lorca; <i>Los títeres de cachiporra</i>, Lorca; <i>Rienzi el Tribuno</i>, Rosario de Acuña
 - title: Presentaciones en eventos académicos
   type: time_table
   contents:
