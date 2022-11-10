@@ -125,12 +125,14 @@
       value: HTML, CSS, Jekyll, Wordpress
     - name: Edición y publicación digital
       value: XML-TEI, CETEIcean
-    - name: Lenguajes de programación
-      value: R (básico), SQL (básico)
-    - name: VCS 
-      value: Git, GitHub, GitLab
     - name: Análisis de redes
       value: Gephi, Cytoscape
+    - name: Lenguajes de programación
+      value: formación básica en R y Pyhton
+    - name: SGBD
+      value: formación básica en SQL
+    - name: VCS 
+      value: Git, GitHub, GitLab
     - name: Transcripción automática
       value: Transkribus
     - name: Sistemas operativos
