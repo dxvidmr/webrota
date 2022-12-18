@@ -63,6 +63,9 @@
 - title: Presentaciones en eventos académicos
   type: time_table
   contents:
+    - year: 2022
+      items:
+        - <i>Estructuras de personajes en ocho comedias urbanas de Lope de Vega desde el análisis de redes sociales</i>. XII Congreso Internacional Jóvenes Investigadores Siglo de Oro (JISO 2022), Universidad de Navarra, 1-2 diciembre 2022
     - year: 2021
       items: 
         - <i>El mismo texto, diferentes ediciones digitales. Resultados y experiencias de estudiantes de “Digital Publishing with Minimal Computing” Global Classrooms (UMD/USAL)</i>. Global Digital Humanities Symposium 2021, Michigan State University, 12-15 abril 2021
