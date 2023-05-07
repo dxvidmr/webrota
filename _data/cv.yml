@@ -11,6 +11,9 @@
 - title: Formación académica
   type: time_table
   contents:
+    - titule: Doctorado en Filología Española
+      institution: Universitat Autònoma de Barcelona
+      year: en curso
     - title: Máster en Formación e Investigación Literaria y Teatral
       institution: Universidad Nacional de Educación a Distancia, Madrid, España
       year: 2022
@@ -46,6 +49,8 @@
 - title: Investigación
   type: time_table
   contents:
+    - title: Grupo de investigación PROLOPE
+      year: desde 2023
     - title: Proyecto <a href="https://etso.es">ETSO</a> (colaboración)
       year: 2022
       description: Preparación de archivos para generar un modelo de corrección y limpieza de los resultados de la transcripción automática de manuscritos teatrales del XVII con Transkribus
@@ -92,9 +97,12 @@
         - Vocal en la <a href="https://humanidadesdigitaleshispanicas.es/la-asociacion/organizacion/">Junta Directiva</a>
         - Responsable del área de comunicación y difusión
 
-- title: Revisión de artículos, actas y comunicaciones
+- title: Revisión y edición de textos
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - <i>Comedia de la carbonera</i>, Comedias de Lope de Vega. Parte XXII, PROLOPE-Gredos
     - year: 2022
       items: 
         - Digital Humanities 2023, Alliance of Digital Humanities Organizations (ADHO), Graz, 10 -14 jul 2023
@@ -114,9 +122,9 @@
   contents:
     - title: Teatro del Siglo de Oro
       items: 
-        - Lope de Vega, comedia urbana
+        - Lope de Vega
+        - Comedia urbana
         - Edición crítica
-        - Teatro breve, Quiñones de Benavente
     - title: Humanidades Digitales
       items:
         - Edición digital
@@ -139,5 +147,3 @@
       value: Git, GitHub, GitLab
     - name: Transcripción automática
       value: Transkribus
-    - name: Sistemas operativos
-      value: Windows, macOS
