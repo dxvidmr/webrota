@@ -4,6 +4,7 @@
     - name: Nombre completo
       value: David Merino Recalde
     - name: Afiliaciones
+      value: Grupo de investigación PROLOPE, Universitat Autònoma de Barcelona
       value: Grupo de investigación HDAUNIR, Universidad Internacional de la Rioja
     - name: Idiomas
       value: Español, Inglés
@@ -11,8 +12,8 @@
 - title: Formación académica
   type: time_table
   contents:
-    - titule: Doctorado en Filología Española
-      institution: Universitat Autònoma de Barcelona
+    - title: Doctorado en Filología Española
+      institution: Universitat Autònoma de Barcelona, Bellaterra, España
       year: en curso
     - title: Máster en Formación e Investigación Literaria y Teatral
       institution: Universidad Nacional de Educación a Distancia, Madrid, España
