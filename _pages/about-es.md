@@ -22,10 +22,14 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Máster en Formación e Investigación Literaria y Teatral (2022), Máster en Humanidades Digitales (2020) por la Universidad Nacional de Educación a Distancia y Titulado Superior en Arte Dramático (2019) por la Escuela Superior de Arte Dramático de Asturias.       
+¡Hola! Soy doctorando en filología española en el grupo de investigación PROLOPE como contratado predoctoral FI-Joan Oró (AGAUR) en el departament de filologia espanyola de la Universitat Autònoma de Barcelona.   
 
-Me interesan el teatro del Siglo de Oro y las Humanidades Digitales, especialmente la edición digital y la aplicación de métodos computacionales como el análisis de redes.       
+En 2022 finalicé el Máster en Formación e Investigación Literaria y Teatral y en 2020 el Máster en Humanidades Digitales, ambos en la Universidad Nacional de Educación a Distancia, y además soy Titulado Superior en Arte Dramático por la Escuela Superior de Arte Dramático de Asturias desde 2019.   
+
+Me interesan el teatro del Siglo de Oro y las Humanidades Digitales, especialmente la edición digital y la aplicación de métodos computacionales como el análisis de redes.   
  
-Formo parte del grupo de investigación [Humanidades Digitales Aplicadas](http://gruposinvestigacion.unir.net/hdaunir/) de UNIR (HDAUNIR), en donde desarrollamos la [Biblioteca Electrónica Textual del Teatro en Español 1868-1939](https://github.com/GHEDI/BETTE) (BETTE). Además, participo en la Sociedad Internacional [Humanidades Digitales Hispánicas](https://humanidadesdigitaleshispanicas.es/) como vocal de su Junta Directiva.         
+También formo parte del grupo de investigación [Humanidades Digitales Aplicadas](http://gruposinvestigacion.unir.net/hdaunir/) de UNIR (HDAUNIR), en donde desarrollamos la [Biblioteca Electrónica Textual del Teatro en Español 1868-1939](https://github.com/GHEDI/BETTE) (BETTE).    
+
+Desde 2021 participo en la Sociedad Internacional [Humanidades Digitales Hispánicas](https://humanidadesdigitaleshispanicas.es/) como vocal de su Junta Directiva.   
 
 ---

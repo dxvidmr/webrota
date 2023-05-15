@@ -22,10 +22,14 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I studied a M.A. in Literary and Theatre Research (2022) and a M.A in Digital Humanities (2020) at the Universidad Nacional de Educación a Distancia (Spain) and a B.A. in Theater and Performing Arts (2019) at the Escuela Superior de Arte Dramático de Asturias (Spain).        
+Hi! I'm a PhD student at the Centre of Lope de Vega Studies (PROLOPE) at the Universitat Autònoma de Barcelona (Spain), funded by a FI-Joan Oró fellowship (AGAUR).   
 
-My interests include Spanish Golden Age Theatre and Digital Humanities, more especifically digital editing and computational drama analysis like Network Analysis.     
+I completed an M.A. in Literary and Theatre Research in 2022, an M.A. in Digital Humanities in 2020, both at the Universidad Nacional de Educación a Distancia (Spain), and a B.A. in Theater and Performing Arts in 2019 at the Escuela Superior de Arte Dramático de Asturias (Spain).   
 
-I am a member of the [Digital Humanities research group](http://gruposinvestigacion.unir.net/hdaunir/) at UNIR (HDAUNIR), where we develop the [Biblioteca Electrónica Textual del Teatro en Español 1868-1939](https://github.com/GHEDI/BETTE). I am also a board member of the Sociedad Internacional [Humanidades Digitales Hispánicas](https://humanidadesdigitaleshispanicas.es/).   
+My interests include Spanish Golden Age Theatre and Digital Humanities, specifically digital editing and computational drama analysis such as Network Analysis.   
+
+I am a member of the [Digital Humanities research group](http://gruposinvestigacion.unir.net/hdaunir/) at UNIR (HDAUNIR), where we develop the [Biblioteca Electrónica Textual del Teatro en Español 1868-1939](https://github.com/GHEDI/BETTE).   
+
+Since 2021, I have been a board member of the [Humanidades Digitales Hispánicas](https://humanidadesdigitaleshispanicas.es/).   
 
 ---
