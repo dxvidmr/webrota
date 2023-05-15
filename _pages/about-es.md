@@ -22,9 +22,9 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-¡Hola! Soy doctorando en filología española en el grupo de investigación PROLOPE como contratado predoctoral FI-Joan Oró (AGAUR) en el departament de filologia espanyola de la Universitat Autònoma de Barcelona.   
+¡Hola! Soy doctorando en filología española en el grupo de investigación [PROLOPE](https://prolope.uab.cat/), como contratado predoctoral FI-Joan Oró (AGAUR) en el Departament de Filologia Espanyola de la Universitat Autònoma de Barcelona.   
 
-En 2022 finalicé el Máster en Formación e Investigación Literaria y Teatral y en 2020 el Máster en Humanidades Digitales, ambos en la Universidad Nacional de Educación a Distancia, y además soy Titulado Superior en Arte Dramático por la Escuela Superior de Arte Dramático de Asturias desde 2019.   
+En 2022 finalicé un Máster en Formación e Investigación Literaria y Teatral y en 2020 un Máster en Humanidades Digitales, ambos en la Universidad Nacional de Educación a Distancia. Además, soy Titulado Superior en Arte Dramático por la Escuela Superior de Arte Dramático de Asturias desde 2019.   
 
 Me interesan el teatro del Siglo de Oro y las Humanidades Digitales, especialmente la edición digital y la aplicación de métodos computacionales como el análisis de redes.   
  
