@@ -4,13 +4,16 @@
     - name: Full Name
       value: David Merino Recalde
     - name: Affiliations
-      value: HDAUNIR Reserach Group, Universidad Internacional de la Rioja
+      value: Centre of Lope de Vega Studies (PROLOPE), Universitat Autònoma de Barcelona (Spain)
     - name: Languages
       value: Spanish, English
 
 - title: Education
   type: time_table
   contents:
+      - title: Phd in Spanish Filology
+      institution: Universitat Autònoma de Barcelona, Bellaterra, Spain
+      year: since 2023
     - title: M.A. in Literary and Theatre Research
       institution: Universidad Nacional de Educación a Distancia, Madrid, Spain
       year: 2022
@@ -50,16 +53,22 @@
 - title: Research
   type: time_table
   contents:
+    - title: Centre of Lope de Vega Studies (PROLOPE)
+      year: since 2023
     - title: Proyecto <a href="https://etso.es">ETSO</a> (colaboration)
       year: 2022
     - title: <a href="http://gruposinvestigacion.unir.net/hdaunir/">Humanidades Digitales Aplicadas de UNIR</a> Research gropu (member)
       year: since 2021
       description:
-        - title: Proyecto HDATEATROUNIR (2020-2022)
+        - title: HDATEATROUNIR Project (2020-2022)
+        - title: HDATEATROUNIR Project (2020-2022)
 
 - title: Academic Events
   type: time_table
   contents:
+    - year: 2022
+      items:
+        - <i>Estructuras de personajes en ocho comedias urbanas de Lope de Vega desde el análisis de redes sociales</i>. XII Congreso Internacional Jóvenes Investigadores Siglo de Oro (JISO 2022), Universidad de Navarra, 1-2 December 2022
     - year: 2021
       items: 
         - <i>El mismo texto, diferentes ediciones digitales. Resultados y experiencias de estudiantes de “Digital Publishing with Minimal Computing” Global Classrooms (UMD/USAL)</i>. Global Digital Humanities Symposium 2021, Michigan State University, 12-15 April 2021
@@ -71,6 +80,8 @@
 - title: Scientific Associations
   type: time_table
   contents:
+    - title: TEATRALES. Asociación de investigación en estudios teatrales
+      year: since 2023
     - title: Sociedad Internacional Humanidades Digitales Hispánicas
       year: since 2021
       description: <a href="https://humanidadesdigitaleshispanicas.es/la-asociacion/organizacion/">Board member</a> (2021-now)
@@ -78,14 +89,19 @@
 - title: Editing and Review Service
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - <i>Comedia de la carbonera</i>, Comedias de Lope de Vega. Parte XXII, PROLOPE-Gredos
     - year: 2022
       items: 
-        - Digital Humanities 2022, ADHO
+        - Digital Humanities 2023, Alliance of Digital Humanities Organizations (ADHO), Graz, 10 -14 jul 2023
+        - Publicaciones de la Asociación Argentina de Humanidades Digitales vol. 3
+        - Digital Humanities 2022, Alliance of Digital Humanities Organizations (ADHO), Tokyo, 25-29 jul 2022
     - year: 2021
       items: 
-        - Programming Historian
-        - Publicaciones de la Asociación Argentina de Humanidades Digitales
-        - Revista de Humanidades Digitales
+        - Programming Historian. Nicolás Vaughan, "Introducción a la codificación de textos en TEI (parte 2)", Programming Historian en español 5 (2021), <a href="https://doi.org/10.46430/phes0055">https://doi.org/10.46430/phes0055</a>
+        - Publicaciones de la Asociación Argentina de Humanidades Digitales vol. 1 y vol. 2
+        - Revista de Humanidades Digitales, vol. 6
     - year: 2018-2019
       items: 
         - Editorial Cambalache. <b>Edited book:</b> G. Abiétar, D. (2019). <i>¿Sólo dos? La medicina ante la ficción política del binarismo sexo-género</i>. Editorial Cambalache. 978-84-94457-28-9
@@ -93,12 +109,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Spanish Golden Age Theatre
+    - title: Spanish Golde Age Theatre
       items: 
-        - Lope de Vega, urban plays
-    - title: Digital Humanities
+        - Lope de Vega
+        - Comedia urbana
+        - Scholarly Editing
+    - title: Humanidades Digitales
       items:
-        - Digital editing
+        - Digital Editing
         - Computational Drama Analysis (Network Analysis, stylometry)
 
 - title: Skills
@@ -108,13 +126,13 @@
       value: HTML, CSS, Jekyll, Wordpress
     - name: Digital Editing and Publishing
       value: XML-TEI, CETEIcean
+      - name: Network Analysis
+      value: Gephi, Cytoscape
     - name: Programming Languages
-      value: R (basic), SQL (basic)
+      value: R (basic), Python (basic)
+    - name: DBMS
+      value: SQL (basic)
     - name: VCS 
       value: Git, GitHub, GitLab
-    - name: Network Analysis
-      value: Gephi, Cytoscape
     - name: Automated Transcription
       value: Transkribus
-    - name: Operating Systems
-      value: Windows, macOS
